@@ -1,0 +1,1 @@
+python train.py --regularization_weight=3e-4 --interpolation_lambda=2

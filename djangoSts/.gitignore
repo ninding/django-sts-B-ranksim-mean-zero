@@ -1,0 +1,6 @@
+glove*.txt
+**/glove/glove.840B.300d.zipaxdpcn7z.tmp
+# ./**/glove/*.tmp
+*.pt
+*.tsv
+cheackpoint*

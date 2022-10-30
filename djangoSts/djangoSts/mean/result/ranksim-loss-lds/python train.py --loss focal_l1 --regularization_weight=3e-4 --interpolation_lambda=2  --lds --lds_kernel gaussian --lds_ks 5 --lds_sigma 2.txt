@@ -1,0 +1,1 @@
+python train.py --loss focal_l1 --regularization_weight=3e-4 --interpolation_lambda=2 --lds --lds_kernel gaussian --lds_ks 5 --lds_sigma 2
